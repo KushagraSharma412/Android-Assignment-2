@@ -1,2 +1,2 @@
 # AndroidMenuExample
-Menu Example
+Android Assignment 2
